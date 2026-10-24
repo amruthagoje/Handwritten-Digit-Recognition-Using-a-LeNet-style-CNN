@@ -184,7 +184,7 @@ The following visualizations help analyze the model's learning process and class
 
 The training curves show how the loss and accuracy change across epochs. They help track learning progress and identify possible overfitting.
 
-![Training Loss and Accuracy](<img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/ecf3a623-bd0f-4ba8-9861-210cb29f82e4" />
+![Training Loss and Accuracy](<img width="1600" height="580" alt="Unknown" src="https://github.com/user-attachments/assets/0f57c6ef-2201-4bf7-96cf-a341cad430a1" />
 )
 
 ### 2. Confusion Matrix
